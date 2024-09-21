@@ -5,5 +5,6 @@
 🧰 **Languages & Tools**
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="width: 40px; height: 40px;" />
+    <!-- Java icon -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" style="width: 150px; height: 150px;" />
 </p>
