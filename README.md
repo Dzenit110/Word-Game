@@ -1,4 +1,3 @@
-![java-original](https://github.com/user-attachments/assets/6572683c-7483-4c6e-b4d3-ad73863dac33)
 ![logo](https://github.com/user-attachments/assets/bdd29b2a-da5b-4fc2-aa7b-be0d775daf0e)
 
 # I made a word game similar to the "WORD GAME" format that became famous on TV. It's like a hangman game, but little different. I wrote the code using objective programming logic...Console Game..
