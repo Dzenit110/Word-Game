@@ -13,6 +13,6 @@
 <p align="left">
     <!-- Java icon resized to 150x150 -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" style="width: 100px; height: 100px;" />
-<img src="https://github.com/user-attachments/assets/dc878c84-0065-4603-b3f0-f08c787646b9" width="100" height="100" alt="Download">
+<img src="https://github.com/user-attachments/assets/dc878c84-0065-4603-b3f0-f08c787646b9" width="150" height="100" alt="Download">
 
 </p>
